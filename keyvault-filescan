@@ -1,0 +1,7 @@
+PS C: \Users\davyd.ramirez.ext> az keyvault show --name MC2IL2FILESCANKVT01 --query "{sku:properties.sk
+tionInDays:properties.softDeleteRetentionInDays, enablePurgeProtection:properties.enablePurgeProtectio
+"enablePurgeProtection": true,
+"sku": {
+"family": "A",
+"name": "Premium"
+"softDeleteRetentionInDays": 90
