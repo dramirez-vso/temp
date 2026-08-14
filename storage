@@ -1,0 +1,22 @@
+\Users\davyd. ramirez.ext> az storage account show --name mc212filescanstg01 --query
+er accessTier, allowBlobPublicAccess:AllowBlobPublicAccess, minimumTIsVersion:minimumTIsvers
+uleSet}"
+"accessTier": "Hot".
+"allowBLobPublicAccess": nul1,
+"kind":
+"StorageV2",
+"minimumTlsVersion": "TLS1_2",
+"networkRuleSet": {
+"bypass":
+"AzureServices",
+"defaultAction": "Allow",
+"ipRules: I],
+"ipvRules": [l,
+"resourceAccessRules": [l,
+"virtualNetworkRules": [1
+sku":
+"name":
+"tier":
+"Standard_ZRS",
+"Standard"
+sC: \Users \davyd. ramirez. ext>
