@@ -1,0 +1,22 @@
+PS C: \Users\davyd.ramirez.ext> az storage account show --na
+:accessTier, allowBlobPublicAccess:AllowBlobPublicAccess, m.
+eSet}"
+"accessTier": "Hot"
+"allowblobPublicAccess": null,
+"kind": "StorageV2"
+"minimumTlsVersion":
+"TLS1_2",
+"networkRuleSet": {
+"bypass": "AzureServices",
+"defaultAction": "Deny",
+"ipRules": [],
+"ipv6Rules": [],
+"resourceAccessRules": [l,
+"virtualNetworkRules"：［］
+J,
+"sku": {
+"name":
+"Standard_RAGRS",
+"tier":
+"Standard"
+PS C: \Users \davyd. ramirez. ext› -
