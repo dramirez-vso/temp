@@ -1,0 +1,8 @@
+\Users \davyd. ramirez.ext> az keyvault show -- name MCZIL2EVENTSKVT1 - -query "{sku:properties. sku, onIndays properties.softDeleteRetentionInDays, enablePurgeProtection:properties.enablePurgeProtection}
+nmicrosoft.us)
+"enablePurgeProtection": null,
+"sku": {
+"family": "A"
+"name": "Standard"
+J,
+"softDeleteRetentionInDays": 90
